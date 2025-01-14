@@ -8,11 +8,11 @@ My name is Aina Abad and I'm 30 years old. I grew up in a village called Sant Sa
 
 ## Why am I taking this course?
 
-I have spent my whole life in **scientific academic research**. First, I did my **bachelor degree in biotechnology**. Afterwards, my **master and my PhD in biomedicine*, specifically bioengineering * *in vitro* * models of the intestinal epithelium tissue. After finishing my doctoral degree, I did a postdoc of one year in the same lab to finish up some undergoing projects, Now, after all these years in between benches, I have come to the conclusion that I don't like the lifestyle that goes along with this career field, including living in a city. Becoming a **data scientist* would facilitate me to work from wherever I wish.
+I have spent my whole life in **scientific academic research**. First, I did my **bachelor degree in biotechnology**. Afterwards, my **master and my PhD in biomedicine**, specifically bioengineering * *in vitro* * models of the intestinal epithelium tissue. After finishing my doctoral degree, I did a postdoc of one year in the same lab to finish up some undergoing projects, Now, after all these years in between benches, I have come to the conclusion that I don't like the lifestyle that goes along with this career field, including living in a city. Becoming a **data scientist** would facilitate me to work from wherever I wish.
 
 ## What is my previous experience with coding?
 
-Although flexibility is currently the main reason why I want to become a data scientist, * *I have always been interested in coding* *. During my bachelor degree, I had the opportunity to use **R** for statistics and data visualization. Later, during my PhD, I did some basic **MatLab** codes, for instance to track cells over time and plot their trajectories from a common origin.
+Although flexibility is currently the main reason why I want to become a data scientist, _I have always been interested in coding_. During my bachelor degree, I had the opportunity to use **R** for statistics and data visualization. Later, during my PhD, I did some basic **MatLab** codes, for instance to track cells over time and plot their trajectories from a common origin.
 
 ## Fun facts about me
 
