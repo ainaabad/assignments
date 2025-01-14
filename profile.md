@@ -1,6 +1,6 @@
 # Aina Abad i Lázaro
 
-! [Imatge 1] (/assets/images/image1.jpeg)
+![Imatge 1](/assets/images/image1.jpeg)
 
 ## Who am I?
 
@@ -22,4 +22,4 @@ As you might have guessed, I am not a huge fan of cities, quite the opposite. In
 - hiking
 - backcountry skiing
 
-You can see some of it in [my instagram profile] (https://www.instagram.com/ainaabad/)
+You can see some of it in [my instagram profile](https://www.instagram.com/ainaabad/)
