@@ -1,6 +1,6 @@
 # Aina Abad i Lázaro
 
-![imatge1](assignments/assets/images/image1.jpeg)
+![imatge1](image1.jpeg)
 
 ## Who am I?
 
